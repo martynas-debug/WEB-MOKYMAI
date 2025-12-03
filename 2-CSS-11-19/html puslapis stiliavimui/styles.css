@@ -1,0 +1,97 @@
+body {
+    background-color: rgb(255, 139, 44);
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1, h3, h4, h5, h6 {
+    color: rgba(0, 0, 0, 0.2);
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 3em;
+    text-align: center;
+}
+
+#pirmas-paragrafas {
+    text-align: justify;
+    font-size: 1.5em;
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+
+a {
+
+    font-weight: 300;
+    text-decoration: none;
+}
+.header {
+
+    color: rgb(28, 225, 61);
+}
+table {
+    background-image: url(.//paveiksliukai/pexels-photo-196667.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    font-size: 1.8em;
+    width: 500px;
+    height: 200px;
+}
+
+li {
+
+    text-transform: lowercase;
+    list-style-type: square;
+}
+
+ol {
+
+    list-style-type: upper-roman;
+}
+
+.Lentelės .td {
+
+    border: 2px solid red;
+    border-collapse: collapse;
+}
+
+#pirma-lentele {
+
+    vertical-align: top;
+}
+img {
+
+    height: 200px; 
+    aspect-ratio: calc(auto);
+}
+td{
+
+    background-color: rgba(255, 255, 255, 0.6);
+}
+
+.langeliai {
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    
+}
+
+ul {
+    list-style-type: square;
+}
+
+#pirmas-paragrafas {
+    background-color:grey
+}
+
+.saraso-elementai {
+
+    list-style-type: none;
+    border-bottom: 2px solid silver;
+}
+a {
+    color: #ed0a3f;
+}
+
+a:hover {
+    color: #2d383a;
+}

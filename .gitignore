@@ -1,0 +1,19 @@
+node-modules/
+
+.env
+*.rar
+
+# Exclude all image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.svg
+*.webp
+*.ico
+
+# Or exclude entire folders with photos
+photos/
+images/
+assets/images/

@@ -1,0 +1,82 @@
+body {
+
+    background: #22C1C3;
+    background: linear-gradient(0deg,rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
+    margin: 0px;
+}
+
+h1 {
+
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    padding: 17px;
+    text-align: start;
+}
+
+.ledas {
+
+    max-block-size: 420px;
+    max-width: 420px;
+    border-radius: 20px;
+    border-top: 0px;
+    box-shadow: 20px;
+}
+div {
+
+    background-color: rgb(255, 255, 255);
+    width: 420px; 
+    height: 520px;
+    text-align: center;
+    margin: 1% auto;
+    text-transform: inherit;
+    font-style: normal;
+    border-radius: 26px;
+    box-shadow: 10px 10px 10px rgba(34, 193, 195, 1);
+}
+
+
+div:hover {
+
+    box-shadow: rgba(34, 193, 195, 1) ;
+    border-color: #22C1C3;
+    border-color: #22C1C3;
+    background-color: aqua; 
+    box-shadow: 70px;
+}
+
+a {
+    
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    size: 18px;
+    border-style:groove;
+    text-decoration: none;
+    padding: 5px;
+    text-align: start;
+    box-sizing: border-box;
+    
+    
+
+}
+
+p {
+
+    font-weight:400;
+    font-style:normal;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    size: 12px;
+    letter-spacing: 0%;
+    /* padding: 40px 50px 40px; */
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+    padding-bottom: 20px;
+    text-align: start;
+    padding: 10px;
+    margin: 10px;
+    
+}

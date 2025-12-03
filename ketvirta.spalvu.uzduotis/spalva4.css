@@ -1,0 +1,51 @@
+.box1 {
+    background-color: rgba(61, 47, 255, 0.407); 
+    background-size: cover;
+    background-image: url(../ketvirta.spalvu.uzduotis/4.photo.folder/ledkalnis4.jpg);
+    background-position: center;
+}
+
+h1 {
+    color: #fbf8f8;
+    background-color: #005851b8;
+}
+
+.antras {
+    color: #ffffff;
+    background-color: #324741;
+}
+
+.trecias {
+    color: #ffffff;
+    background-color: #403d3d;
+}
+
+.permatomas {
+    background-color: rgba(242, 242, 242, 0.5);
+}
+
+.box2 {
+    background-color: #7b7d7c3b; 
+    background-image: url(../ketvirta.spalvu.uzduotis/4.photo.folder/ledkalnis3.jpg);
+    background-size: cover;
+}
+
+.pirmas {
+    color: #ffffff;
+    background-color: #3247416e;
+}
+.antras {
+    color: #ffffff;
+    background-color: #3247418f;
+}
+
+.trecias {
+    color: #ffffff;
+    background-color: #403d3d81;
+}
+
+.box3 {
+    background-color: rgba(61, 47, 255, 0.407); 
+    background-image: url(../ketvirta.spalvu.uzduotis/4.photo.folder/ledkalnis5.jpg);
+    background-size: cover;
+}

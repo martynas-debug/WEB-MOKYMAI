@@ -1,0 +1,106 @@
+.container {
+    background-color: antiquewhite;
+    height: 120px;
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 15px;
+    
+}
+
+.container2 {
+
+    background-color: blueviolet; 
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    padding: auto 0;
+    text-align: center;
+    align-items: center;
+    
+}
+
+
+
+.nuorodos {
+    margin: 5px;
+    justify-content: space-between;
+    text-decoration: none;
+}
+
+p {
+    color: aliceblue;
+    text-align: center;
+    display: inline-block;
+}
+
+.container3 {
+
+    background-color: rgb(223, 223, 223);
+/* height: 700px; */ /* jei apribojam auksti, suspaudus vaizda straipsniai lipa ant tolesniu elementu */
+    display: flex;
+    justify-content: space-around; /* truputi graziau space around, lieka tarpas priekyje */
+    flex-wrap: wrap;
+    padding-top: 20px;
+    
+}
+
+.box {
+
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    max-width: 600px;
+    max-height: 330px;
+    border-color: black;
+    /* justify-content: flex-start;
+    justify-content: space-between;
+    align-items: end;
+    flex-direction: row-reverse; */ /* visi sitie nieko nedaro, nes galioja tik vidiniams box elementams */
+    display: inline-block;
+    padding-left: 15px;
+    margin: 10px; /* paliekam nedideli tarpa tarp straipsniu */
+}
+
+
+.p2 {
+    color: black;
+    text-decoration: none;
+    text-align:left;
+    padding-left:0%;
+    
+}
+
+.box2 {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    max-width: 600px;
+    max-height: 330px;
+    border-color: black;
+    /* justify-content: space-between;
+    flex-direction: column; */
+    display: inline-block;
+    padding-left: 15px;
+    margin: 10px;
+}
+
+.container5 {
+
+    background-color: blueviolet; 
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.container6 {
+
+    background-color: rgb(241, 177, 94);
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    padding: auto 0;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+}

@@ -1,0 +1,57 @@
+body {
+   background-color: rgb(198, 198, 198);
+}
+
+h2 {
+
+    color: rgb(255, 255, 255);
+    background-color: black;
+
+}
+
+.blokas1 {
+
+    background-color: rgb(230, 230, 230);
+}
+
+.blokas2 {
+
+    background-color: rgb(241, 241, 241);
+}
+
+h3 {
+
+    color: rgb(255, 255, 255);
+    background-color: rgb(32, 207, 255);
+}
+
+.href {
+
+    color: rgb(255, 0, 0);
+}
+
+#DIDELIS1 {
+
+
+    color: green;
+}
+
+.extraHeader {
+
+    color: red;
+}
+
+h1 span {
+
+    font-style: initial;
+}
+
+#BLOKAS1 {
+
+    background-color: yellow;
+}
+
+.BLOKAS1 {
+
+    color: darkgreen;
+}

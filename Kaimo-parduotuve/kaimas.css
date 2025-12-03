@@ -1,0 +1,47 @@
+body {
+
+    background-color: rgb(221, 220, 220);
+    background-size: cover; 
+}
+
+h1 {
+
+    font-family: "Roboto", sans-serif;
+    background-color: rgb(255, 255, 255);
+    font-size: 44px
+}
+
+.kvadratas {
+
+    font-style: "Open Sans", sans-serif;
+    text-transform: inherit;
+    font-style: normal;
+    width: 440px;
+}
+
+.DIDELIS {
+
+    background-color: rgb(255, 255, 255);
+}
+
+h3, h4 {
+
+    text-decoration: underline;
+
+}
+
+.DIDELIS2 {
+
+    background-color: rgb(255, 255, 255);
+}
+
+h2 {
+
+    font-family: "Roboto", sans-serif;
+    font-size: 33px 
+}
+
+.saldumynai {
+    font-family: "Roboto", sans-serif;
+
+}

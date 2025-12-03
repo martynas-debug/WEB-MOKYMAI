@@ -1,0 +1,18 @@
+body {
+    background-image: url(.//pasvaiste.photo/pasvaiste-back.jpg);
+    opacity: 50%;
+    width: 1920px;
+    
+}
+
+.foto1 {
+    width: 602px;
+    height: 430px;
+    top: 90px;
+    left: 135px;
+    border-top-left-radius: 95px;
+    border-top-right-radius: 51px;
+    border-bottom-right-radius: 179px;
+    border-bottom-left-radius: 60px;
+
+}
