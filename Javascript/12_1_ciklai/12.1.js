@@ -64,19 +64,33 @@ if (pradzia < pabaiga){
 console.log('-----6-----'); 
 console.log();
 
-let pradzia1 = 9, pradzia2 = 21;
+let pradzia1 = 9, pabaiga1 = 21;
 
-if(pradzia1 < pradzia2)
+if(pradzia1 < pabaiga1)
 {
-    for(let i = pradzia1; i <= pradzia2; i++){
+    for(let i = pradzia1; i <= pabaiga1; i++)
+        {
         
-    }
-   
-
-
-
-
-
-
-
+            if(i % 2 != 0 || i % 8 == 0)
+                {
+                    console.log('${i} yra nelyginis skaicius arba dalinasi is 8');
+                }
 }
+}
+console.log();
+
+//7. 
+console.log('-----7-----'); 
+console.log();
+
+let a = 3, b = 8, suma = 0;
+
+for(let i = 1; i <= b; i++)
+{
+    suma += a;
+}
+console.log('${suma}');
+
+console.log();
+
+
