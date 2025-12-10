@@ -84,7 +84,7 @@ console.log();
 console.log('-----6-----');
 console.log();
 
-let n = 10; // Norimas Fibonačiaus skaičių kiekis
+let n = 10; // čia skaičių kiekis  
 
 let fib1 = 0;
 let fib2 = 1;
