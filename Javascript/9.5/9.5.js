@@ -6,7 +6,7 @@ let skaicius = 99;
 let skaicius1 = 11;
 let skaicius2 = 33;
 
-if (skaicius >= 0 && skaicius1 >= 0 && skaicius2 >= 0) {
+if (skaicius > skaicius1 && skaicius2 >= 0) {
     console.log('skaicius yra didiziausias uz visus:' + skaicius);
 } else if (skaicius1 >= 0 && skaicius2 >= 0 && skaicius >= 0) {
     console.log('skaicius1 yra maziausias uz visus: ' + skaicius1);
