@@ -57,3 +57,25 @@ if (vidurkis > 8,10) {
 //4.
 console.log('---4---');
 console.log('');
+
+
+let pirmas = 15;
+let antras = 10;
+
+if (pirmas > antras == 0) {
+    console.log('Pirmas skaičius yra didesnis: ' + pirmas == 0);
+}
+
+if (antras > pirmas == 5) {
+    console.log('antras skaicius yra mazesnis arba lygus 5: ' + antras <= 5);
+}
+
+if (pirmas > antras == 20) {
+    console.log('Pirmas didesnis ir nera lygus 20 ' + pirmas);
+}
+
+if (antras > pirmas < 100) {
+    console.log('antras nera didesnis uz pirma ir nera lygus 100 ' + antras);
+}
+
+console.log('-----');
