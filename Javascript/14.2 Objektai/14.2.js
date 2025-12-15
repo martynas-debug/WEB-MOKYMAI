@@ -13,8 +13,13 @@ for (const raktas in knigynas) {
     }
 
 }
+
+// Išveskite knygyno savybes, kurių reikšmės yra ne string tipo
 for (const raktas in knigynas) {
-    if (typeof knigynas[raktas] !== "string") {
+    if (typeof knigynas[raktas] !== 'string') {
         console.log(`${raktas}: ${knigynas[raktas]}`);
     }
 }
+
+
+
