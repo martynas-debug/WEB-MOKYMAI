@@ -66,19 +66,19 @@ body {
   bottom: 0;
   background: var(--clr-neon);
   box-shadow: 0 0 2em var(--clr-neon);
-  z-index: -1;
+  z-index: -5;
   opacity: 0;
-  transition: opacity 100ms linear;
+  transition: opacity 200ms linear;
 }
 
 .neon:hover::after {
-  opacity: 1;
+  opacity: 10;
 }
 .neon:hover, .neon:focus {
-  color: white;
+  color: rgb(255, 255, 255);
 }
 .neon:hover::before {
-  opacity: 0.8;
+  opacity: 55.8;
 }
 
 
@@ -89,7 +89,7 @@ body {
 }
 
 div {
-  animation: counter 5555s infinite alternate ease-in-out;
+  animation: counter 1555s infinite alternate ease-in-out;
   counter-reset: num var(--num);
   font: 800 40px system-ui;
   padding: 2rem;
